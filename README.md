@@ -6,6 +6,13 @@
 
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
+## Fully Convolutional Neural Networks for Newspaper Article Segmentation
+
+> "Segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
+
+We present a semantic segmentation approach based on the visual appearance of each page. We apply a fully convolutional neural network (FCN) that we train in an end-to-end fashion to transform the input image into a segmentation mask in one pass. We show experimentally that the FCN performs very well: it outperforms a deep learning-based commercial solution by a large margin in terms of segmentation quality while in addition being computationally two orders of magnitude more efficient."
+
+https://pd.zhaw.ch/publikation/upload/212962.pdf
 
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://arxiv.org/abs/1706.03762
@@ -19,4 +26,5 @@ https://arxiv.org/abs/1904.12848
 https://blog.inten.to/speeding-up-bert-5528e18bb4ea
 https://arxiv.org/abs/1909.10351
 https://towardsdatascience.com/the-most-important-supreme-court-decision-for-data-science-and-machine-learning-44cfc1c1bcaf
+
 
