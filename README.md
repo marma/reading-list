@@ -24,15 +24,42 @@ https://arxiv.org/abs/1706.03762
 
 https://magenta.tensorflow.org/music-transformer
 
+## How to Fine-Tune BERT for Text Classification?
+
+> "Language model pre-training has proven to be
+useful in learning universal language representations. As a state-of-the-art language model
+pre-training model, BERT (Bidirectional Encoder Representations from Transformers) has
+achieved amazing results in many language understanding tasks. In this paper, we conduct exhaustive experiments to investigate different fine-tuning methods of BERT on text classification task and provide a general solution for BERT fine-tuning. Finally, the proposed solution obtains new state-of-the-art results on eight widely-studied text classification
+datasets."
 
 * https://arxiv.org/pdf/1905.05583.pdf
-* https://arxiv.org/pdf/1210.0999.pdf
-* https://dl.acm.org/citation.cfm?doid=2960811.2967165
-* https://www.semanticscholar.org/paper/Fully-Convolutional-Neural-Networks-for-Newspaper-Meier-Stadelmann/7b12746f5af6f473f9ed7685e3eac199077ce205
-* https://ufal.mff.cuni.cz/pbml/110/art-popel-bojar.pdf
-* https://arxiv.org/abs/1904.12848
-* https://blog.inten.to/speeding-up-bert-5528e18bb4ea
-* https://arxiv.org/abs/1909.10351
-* https://towardsdatascience.com/the-most-important-supreme-court-decision-for-data-science-and-machine-learning-44cfc1c1bcaf
 
+## Bayesian Mixture Models on Connected Components for Newspaper Article Segmentation
+
+> "In this paper we propose a new method for automated segmentation of scanned newspaper pages into articles. Article regions are produced as a result of merging sub-article level content and title regions. We use a Bayesian Gaussian mixture model to model page Connected Component information and cluster input into sub-article components. The Bayesian model is conditioned on a prior distribution over region features, aiding classification into titles and content. Using a Dirichlet prior we are able to automatically estimate correctly the number of title and article regions. The method is tested on a dataset of digitized historical newspapers, where visual experimental results are very promising."
+
+https://dl.acm.org/citation.cfm?doid=2960811.2967165
+
+## Unsupervised Data Augmentation for Consistency Training
+
+> "Semi-supervised learning lately has shown much promise in improving deep learning models when labeled data is scarce. Common among recent approaches is the use of consistency training on a large amount of unlabeled data to constrain model predictions to be invariant to input noise. In this work, we present a new perspective on how to effectively noise unlabeled examples and argue that the quality of noising, specifically those produced by advanced data augmentation methods, plays a crucial role in semi-supervised learning. By substituting simple noising operations with advanced data augmentation methods, our method brings substantial improvements across six language and three vision tasks under the same consistency training framework. On the IMDb text classification dataset, with only 20 labeled examples, our method achieves an error rate of 4.20, outperforming the state-of-the-art model trained on 25,000 labeled examples. On a standard semi-supervised learning benchmark, CIFAR-10, our method outperforms all previous approaches and achieves an error rate of 2.7% with only 4,000 examples, nearly matching the performance of models trained on 50,000 labeled examples. Our method also combines well with transfer learning, e.g., when finetuning from BERT, and yields improvements in high-data regime, such as ImageNet, whether when there is only 10% labeled data or when a full labeled set with 1.3M extra unlabeled examples is used."
+
+https://arxiv.org/abs/1904.12848
+
+## Speeding up BERT
+
+> "BERT became an essential ingredient of many NLP deep learning pipelines. It is considered a milestone in NLP, as ResNet is in the computer vision field. The only problem with BERT is its size. BERT-base is model contains 110M parameters. The larger variant BERT-large contains 340M parameters. It’s hard to deploy a model of such size into many environments with limited resources, such as a mobile or embedded systems."
+
+https://blog.inten.to/speeding-up-bert-5528e18bb4ea
+
+## TinyBERT: Distilling BERT for Natural Language Understanding
+
+> "Language model pre-training, such as BERT, has significantly improved the performances of many natural language processing tasks. However, pre-trained language models are usually computationally expensive and memory intensive, so it is difficult to effectively execute them on some resource-restricted devices. To accelerate inference and reduce model size while maintaining accuracy, we firstly propose a novel transformer distillation method that is a specially designed knowledge distillation (KD) method for transformer-based models. By leveraging this new KD method, the plenty of knowledge encoded in a large teacher BERT can be well transferred to a small student TinyBERT. Moreover, we introduce a new two-stage learning framework for TinyBERT, which performs transformer distillation at both the pre-training and task-specific learning stages. This framework ensures that TinyBERT can capture both the general-domain and task-specific knowledge of the teacher BERT.TinyBERT is empirically effective and achieves more than 96% the performance of teacher BERTBASE on GLUE benchmark while being 7.5x smaller and 9.4x faster on inference. TinyBERT is also significantly better than state-of-the-art baselines on BERT distillation, with only about 28% parameters and about 31% inference time of them."
+
+https://arxiv.org/abs/1909.10351
+
+
+## Misc:
+* https://towardsdatascience.com/the-most-important-supreme-court-decision-for-data-science-and-machine-learning-44cfc1c1bcaf
+* https://arxiv.org/pdf/1210.0999.pdf
 
