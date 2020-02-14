@@ -1,5 +1,12 @@
 # Reading list
 
+## Combining Word and Entity Embeddings forEntity Linking
+Jose G. Moreno, Romaric Besancon, Romain Beaumont, Eva D’hondt, Anne-Laure Ligozat, Sophie Rosset, Xavier Tannier, and Brigitte Grau
+
+> "The correct identification of the link between an entity men-tion in a text and a known entity in a large knowledge base is importantin information retrieval or information extraction. The general approachfor this task is to generate, for a given mention, a set of candidate en-tities from the base and, in a second step, determine which is the bestone. This paper proposes a novel method for the second step which isbased on the joint learning of embeddings for the words in the text andthe entities in the knowledge base. By learning these embeddings in thesame space we arrive at a more conceptually grounded model that canbe used for candidate selection based on the surrounding context. Therelative improvement of this approach is experimentally validated on arecent benchmark corpus from the TAC-EDL 2015 evaluation campaign."
+
+https://perso.limsi.fr/bg/fichiers/2017/combining-word-entity-eswc2017.pdf
+
 ## Entity-aware ELMo: Learning Contextual Entity Representation for Entity Disambiguation
 Hamed Shahbazi, Xiaoli Z. Fern, Reza Ghaeini,Rasha Obeidat, Prasad Tadepalli
 
