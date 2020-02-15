@@ -1,5 +1,18 @@
 # Reading list
 
+## RDF2Vec: RDF Graph Embeddingsand Their Applications
+
+> "Linked Open Data has been recognized as a valuable source for background information in many data mining andinformation retrieval tasks. However, most of the existing tools require features in propositional form, i.e., a vector of nominal ornumerical features associated with an instance, while Linked Open Data sources are graphs by nature. In this paper, we presentRDF2Vec, an approach that uses language modeling approaches for unsupervised feature extraction from sequences of words,and adapts them to RDF graphs. We generate sequences by leveraging local information from graph sub-structures, harvested byWeisfeiler-Lehman Subtree RDF Graph Kernels and graph walks, and learn latent numerical representations of entities in RDFgraphs. We evaluate our approach on three different tasks: (i) standard machine-learning tasks (ii) entity and document modeling(iii) content-based recommender systems. The evaluation shows that the proposed entity embeddings outperform existing tech-niques, and that feature vector representations of general knowledge graphs such as DBpedia and Wikidata can be easily reusedfor different tasks."
+
+http://www.semantic-web-journal.net/system/files/swj1495.pdf
+
+## Wikipedia2Vec: An Efficient Toolkit for Learning and Visualizing the Embeddings of Words and Entities from Wikipedia
+Ikuya Yamada, Akari Asai, Jin Sakuma, Hiroyuki Shindo, Hideaki Takeda, Yoshiyasu Takefuji, Yuji Matsumoto
+
+> "The embeddings of entities in a large knowledge base (e.g., Wikipedia) are highly beneficial for solving various natural language tasks that involve real world knowledge. In this paper, we present Wikipedia2Vec, a Python-based open-source tool for learning the embeddings of words and entities from Wikipedia. The proposed tool enables users to learn the embeddings efficiently by issuing a single command with a Wikipedia dump file as an argument. We also introduce a web-based demonstration of our tool that allows users to visualize and explore the learned embeddings. In our experiments, our tool achieved a state-of-the-art result on the KORE entity relatedness dataset, and competitive results on various standard benchmark datasets. Furthermore, our tool has been used as a key component in various recent studies. We publicize the source code, demonstration, and the pretrained embeddings for 12 languages at this https URL."
+
+https://arxiv.org/abs/1812.06280
+
 ## Combining Word and Entity Embeddings forEntity Linking
 Jose G. Moreno, Romaric Besancon, Romain Beaumont, Eva D’hondt, Anne-Laure Ligozat, Sophie Rosset, Xavier Tannier, and Brigitte Grau
 
