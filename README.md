@@ -112,6 +112,13 @@ https://arxiv.org/abs/1910.01108
 
 https://arxiv.org/abs/1909.10351
 
+## BoW to BERT
+Ashok Chilakapati
+ 
+> "Word vectors have evolved over the years to know the difference between “record the play” vs “play the record”. They have evolved from a one-hot world where every word was orthogonal to every other word, to a place where word vectors morph to suit the context. Slapping a BoW on word vectors is the usual way to build a document vector for tasks such as classification. But BERT does not need a BoW as the vector shooting out of the top [CLS] token is already primed for the specific classification objective ..."
+
+https://xplordat.com/2019/09/23/bow-to-bert/
+
 ## Text Similarities : Estimate the degree of similarity between two texts
 
 https://medium.com/@adriensieg/text-similarities-da019229c894
