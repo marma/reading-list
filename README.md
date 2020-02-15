@@ -112,6 +112,9 @@ https://arxiv.org/abs/1910.01108
 
 https://arxiv.org/abs/1909.10351
 
+## Text Similarities : Estimate the degree of similarity between two texts
+
+https://medium.com/@adriensieg/text-similarities-da019229c894
 
 ## Misc:
 * https://towardsdatascience.com/the-most-important-supreme-court-decision-for-data-science-and-machine-learning-44cfc1c1bcaf
