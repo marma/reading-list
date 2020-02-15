@@ -1,6 +1,6 @@
 # Reading list
 
-## RDF2Vec: RDF Graph Embeddingsand Their Applications
+## RDF2Vec: RDF Graph Embeddings and Their Applications
 Petar Ristoski, Jessica Rosati, Tommaso Di Noia, Renato De Leone, Heiko Paulheim
 
 > "Linked Open Data has been recognized as a valuable source for background information in many data mining andinformation retrieval tasks. However, most of the existing tools require features in propositional form, i.e., a vector of nominal ornumerical features associated with an instance, while Linked Open Data sources are graphs by nature. In this paper, we presentRDF2Vec, an approach that uses language modeling approaches for unsupervised feature extraction from sequences of words,and adapts them to RDF graphs. We generate sequences by leveraging local information from graph sub-structures, harvested byWeisfeiler-Lehman Subtree RDF Graph Kernels and graph walks, and learn latent numerical representations of entities in RDFgraphs. We evaluate our approach on three different tasks: (i) standard machine-learning tasks (ii) entity and document modeling(iii) content-based recommender systems. The evaluation shows that the proposed entity embeddings outperform existing tech-niques, and that feature vector representations of general knowledge graphs such as DBpedia and Wikidata can be easily reusedfor different tasks."
