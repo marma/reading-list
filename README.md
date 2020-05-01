@@ -1,5 +1,12 @@
 # Reading list
 
+## Label-Free Bioaerosol Sensing Using Mobile Microscopy and Deep Learning
+Yichen WuAyfer CalisYi LuoCheng ChenMaxwell LuttonYair RivensonXing LinHatice Ceylan KoydemirYibo ZhangHongda WangZoltán GöröcsAydogan Ozcan
+
+> "Conventional bioaerosol sensing requires the sampled aerosols in the field to be transferred to a laboratory for manual inspection, which can be rather costly and slow, also requiring a professional for labeling and microscopic examination of the samples. Here we demonstrate label-free bioaerosol sensing using a field-portable and cost-effective device based on holographic microscopy and deep-learning, which screens bioaerosols at a throughput of 13 L/min. Two different deep neural networks are designed to rapidly reconstruct the amplitude and phase images of the captured bioaerosols, and to classify the type of each bioaerosol that is imaged. As a proof-of-concept, we studied label-free sensing of common bioaerosol types, for example, Bermuda grass pollen, oak tree pollen, ragweed pollen, Aspergillus spore, and Alternaria spore and achieved >94% classification accuracy. The presented label-free bioaerosol measurement device, with its mobility and cost-effectiveness, will find several applications in indoor and outdoor air quality monitoring."
+
+https://pubs.acs.org/doi/pdf/10.1021/acsphotonics.8b01109
+
 ## RDF2Vec: RDF Graph Embeddings and Their Applications
 Petar Ristoski, Jessica Rosati, Tommaso Di Noia, Renato De Leone, Heiko Paulheim
 
