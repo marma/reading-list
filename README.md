@@ -1,5 +1,12 @@
 # Reading list
 
+## wav2letter++: The Fastest Open-source Speech Recognition System
+Vineel Pratap, Awni Hannun, Qiantong Xu, Jeff Cai, Jacob Kahn, Gabriel Synnaeve, Vitaliy Liptchinsky, Ronan Collobert
+
+> "This paper introduces wav2letter++, the fastest open-source deep learning speech recognition framework. wav2letter++ is written entirely in C++, and uses the ArrayFire tensor library for maximum efficiency. Here we explain the architecture and design of the wav2letter++ system and compare it to other major open-source speech recognition systems. In some cases wav2letter++ is more than 2x faster than other optimized frameworks for training end-to-end neural networks for speech recognition. We also show that wav2letter++'s training times scale linearly to 64 GPUs, the highest we tested, for models with 100 million parameters. High-performance frameworks enable fast iteration, which is often a crucial factor in successful research and model tuning on new datasets and tasks."
+
+https://arxiv.org/abs/1812.07625
+
 ## Label-Free Bioaerosol Sensing Using Mobile Microscopy and Deep Learning
 Yichen Wu, Ayfer Calis, Yi Luo, Cheng Chen, Maxwell Lutton, Yair Rivenson, Xing Lin, Hatice Ceylan Koydemir, Yibo Zhang, Hongda Wang, Zoltán Göröcs, Aydogan Ozcan
 
