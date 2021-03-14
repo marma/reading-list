@@ -1,5 +1,15 @@
 # Reading list
 
+## Warm-starting encoder-decoder
+Patrick von Platen
+
+Transformer-based encoder-decoder models were proposed in Vaswani et al. (2017) and have recently experienced a surge of interest, e.g. Lewis et al. (2019), Raffel et al. (2019), Zhang et al. (2020), Zaheer et al. (2020), Yan et al. (2020).
+
+Similar to BERT and GPT2, massive pre-trained encoder-decoder models have shown to significantly boost performance on a variety of sequence-to-sequence tasks Lewis et al. (2019), Raffel et al. (2019). However, due to the enormous computational cost attached to pre-training encoder-decoder models, the development of such models is mainly limited to large companies and institutes.
+
+https://huggingface.co/blog/warm-starting-encoder-decoder
+
+
 ## A Machine Learning Approach for Graph-Based Page Segmentation
 Ana L. L. M. Maia, Frank D. Julca-Aguilar and Nina S. T. Hirata
 
