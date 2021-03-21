@@ -1,5 +1,12 @@
 # Reading list
 
+## Self-training and Pre-training are Complementary for Speech Recognition
+Qiantong Xu, Alexei Baevski, Tatiana Likhomanenko, Paden Tomasello, Alexis Conneau, Ronan Collobert, Gabriel Synnaeve, Michael Auli
+
+> "Self-training and unsupervised pre-training have emerged as effective approaches to improve speech recognition systems using unlabeled data. However, it is not clear whether they learn similar patterns or if they can be effectively combined. In this paper, we show that pseudo-labeling and pre-training with wav2vec 2.0 are complementary in a variety of labeled data setups. Using just 10 minutes of labeled data from Libri-light as well as 53k hours of unlabeled data from LibriVox achieves WERs of 3.0%/5.2% on the clean and other test sets of Librispeech - rivaling the best published systems trained on 960 hours of labeled data only a year ago. Training on all labeled data of Librispeech achieves WERs of 1.5%/3.1%."
+
+https://arxiv.org/abs/2010.11430
+
 ## wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 Alexei Baevski, Henry Zhou, Abdelrahman Mohamed, Michael Auli
 
