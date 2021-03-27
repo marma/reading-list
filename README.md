@@ -1,5 +1,20 @@
 # Reading list
 
+## An In-Depth Comparison of 14 Spelling Correction Tools on a Common Benchmark
+Markus Näther
+
+> "Determining and correcting spelling and grammar errors in text is an important but surprisingly difficult task. There are several reasons
+why this remains challenging. Errors may consist of simple typing errors like deleted, substituted, or wrongly inserted letters, but
+may also consist of word confusions where a word was replaced by another one. In addition, words may be erroneously split into two
+parts or get concatenated. Some words can contain hyphens, because they were split at the end of a line or are compound words with
+a mandatory hyphen. In this paper, we provide an extensive evaluation of 14 spelling correction tools on a common benchmark. In
+particular, the evaluation provides a detailed comparison with respect to 12 error categories. The benchmark consists of sentences from
+the English Wikipedia, which were distorted using a realistic error model. Measuring the quality of an algorithm with respect to these
+error categories requires an alignment of the original text, the distorted text and the corrected text provided by the tool. We make our
+benchmark generation and evaluation tools publicly available."
+
+https://www.aclweb.org/anthology/2020.lrec-1.228.pdf
+
 ## Self-training and Pre-training are Complementary for Speech Recognition
 Qiantong Xu, Alexei Baevski, Tatiana Likhomanenko, Paden Tomasello, Alexis Conneau, Ronan Collobert, Gabriel Synnaeve, Michael Auli
 
