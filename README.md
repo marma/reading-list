@@ -1,5 +1,12 @@
 # Reading list
 
+## Correction of Automatic Speech Recognition with Transformer Sequence-to-sequence Model
+Oleksii Hrinchuk, Mariya Popova, Boris Ginsburg
+
+> "In this work, we introduce a simple yet efficient post-processing model for automatic speech recognition (ASR). Our model has Transformer-based encoder-decoder architecture which "translates" ASR model output into grammatically and semantically correct text. We investigate different strategies for regularizing and optimizing the model and show that extensive data augmentation and the initialization with pre-trained weights are required to achieve good performance. On the LibriSpeech benchmark, our method demonstrates significant improvement in word error rate over the baseline acoustic model with greedy decoding, especially on much noisier dev-other and test-other portions of the evaluation dataset. Our model also outperforms baseline with 6-gram language model re-scoring and approaches the performance of re-scoring with Transformer-XL neural language model."
+
+https://arxiv.org/abs/1910.10697
+
 ## On the Choice of Modeling Unit for Sequence-to-Sequence Speech Recognition
 Kazuki Irie, Rohit Prabhavalkar, Anjuli Kannan, Antoine Bruguier, David Rybach, Patrick Nguyen
 
