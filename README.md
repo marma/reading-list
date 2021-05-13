@@ -1,5 +1,12 @@
 # Reading list
 
+## Fine-tuning BERT Models for Keyphrase Extraction in Scientific Articles
+Yeonsoo Lim, Deokjin Seo, and Yuchul Jung
+
+> "Despite extensive research, performance enhancement of keyphrase (KP) extractionremains a challenging problem in modern informatics. Recently, deep learning-based supervised approaches have exhibited state-of-the-art accuracies with respect to this problem, and several of the previously proposed methods utilize Bidirectional Encoder Representations from Transformers (BERT)-based language models. However, few studies have investigated the effective application of BERT based fine-tuning techniques to the problem of KP extraction. In this paper, we consider the aforementioned problem in the context of scientific articles by investigating the fine-tuning characteristics of two distinct BERT models — BERT (i.e., base BERT model by Google) and SciBERT (i.e., a BERT model trained on scientific text). Three different datasets (WWW, KDD, and Inspec) comprising data obtained from the computer science domain are used to compare the results obtained by fine-tuning BERT and SciBERT in terms of KP extraction"
+
+http://jaitc.ki-it.or.kr/xml/24833/24833.pdf
+
 ## LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis
 Zejiang Shen, Ruochen Zhang, Melissa Dell, Benjamin Charles Germain Lee, Jacob Carlson, Weining Li
 
