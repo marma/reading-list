@@ -1,5 +1,11 @@
 # Reading list
 
+## White Paper on Artificial Intelligence A European approach to excellence and trust
+
+> "Artificial Intelligence is developing fast. It will change our lives by improving healthcare (e.g. making diagnosis more precise, enabling better prevention of diseases), increasing the efficiency of farming, contributing to climate change mitigation and adaptation, improving the efficiency of production systems through predictive maintenance, increasing the security of Europeans, and in many other ways that we can only begin to imagine. At the same time, Artificial Intelligence (AI) entails a number of potential risks, such as opaque decision-making, gender-based or other kinds of discrimination, intrusion in our private lives or being used for criminal purposes."
+
+https://ec.europa.eu/info/sites/default/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf
+
 ## Fine-tuning BERT Models for Keyphrase Extraction in Scientific Articles
 Yeonsoo Lim, Deokjin Seo, and Yuchul Jung
 
