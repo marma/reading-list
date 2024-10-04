@@ -1,5 +1,12 @@
 # Reading list
 
+## A systemic functional linguistics approach to implicit entity recognition in tweets
+Hawre Hosseini, Mehran Mansouri, Ebrahim Bagheri
+
+> "The identification of knowledge graph entity mentions in textual content has already attracted much attention. The major assumption of existing work is that entities are explicitly mentioned in text and would only need to be disambiguated and linked. However, this assumption does not necessarily hold for social content where a significant portion of information is implied. The focus of our work in this paper is to identify whether textual social content include implicit mentions of knowledge graph entities or not, hence forming a two-class classification problem. To this end, we adopt the systemic functional linguistic framework that allows for capturing meaning expressed through language. Based on this theoretical framework we systematically introduce two classes of features, namely syntagmatic and paradigmatic features, for implicit entity recognition. In our experiments, we show the utility of these features for the task, report on ablation studies, measure the impact of each feature subset on each other and also provide a detailed error analysis of our technique."
+
+https://www.sciencedirect.com/science/article/pii/S0306457322000772
+
 ## Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation
 Wenxuan Wang, Wenxiang Jiao, Yongchang Hao, Xing Wang, Shuming Shi, Zhaopeng Tu, Michael Lyu
 
